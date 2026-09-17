@@ -6,18 +6,16 @@
 
 It displays the contents of a file and then shows the total number of lines in that file.
 
-### How to run it
+### How to Run It
 
 ```bash
 node fancyCat.js practice.txt
-### Commands Combined
+Commands Combined
+cat - displays the contents of a file
+wc - counts information in a file, such as the number of lines
+AI-Assisted Programming
 
-- `cat` - displays the contents of a file
-- `wc` - counts information in a file, such as the number of lines
-
-## AI-Assisted Programming
-
-I used AI to help me understand the `cat` and `wc` commands and how they could be combined into one simple Node.js command-line tool.
+I used AI to help me understand the cat and wc commands and how they could be combined into one simple Node.js command-line tool.
 
 AI also helped me come up with test scenarios and identify edge cases, such as running the program without a filename or using a filename that does not exist.
 
