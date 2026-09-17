@@ -22,3 +22,4 @@ AI also helped me come up with test scenarios and identify edge cases, such as r
 I still had to test the program myself, review the results, and decide what changes to make to the code.
 
 One thing AI got wrong at first was misunderstanding which command I wanted to build.
+```text
